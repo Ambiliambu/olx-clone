@@ -74,12 +74,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 it is an clone application of OLX which is created by using firebase.
 
+`react >version : 17.0.2 `
+`react-router-dom >version: 5.2.0`
+`react-scripts >version : 4.0.3 `
+
 ## Firebase
 It is a Backend as a Serevice(Baas). It provides developers with a variety of tools and services to help them develop quality app, grow their user base, and earn profit. It is built on Google’s infrastructure.
    Here we  use firebase to store data of users and
    products.Then fetching the data from farebase using methods.
 
-## Features
+### Features
 
 * It is an OLX app clone.
 * Fetch user data stored in the firebse Authetication   using methods.
