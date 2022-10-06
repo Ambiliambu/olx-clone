@@ -74,8 +74,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 it is an clone application of OLX which is created by using firebase.
 
-`react `  : `17.0.2 `<br/><br/>
-`react-router-dom` : `5.2.0`<br/><br/>
+`react `  : `^17.0.2 `<br/><br/>
+`react-router-dom` : `^5.2.0`<br/><br/>
 `react-scripts ` : `4.0.3 `<br/>
 
 ## Firebase
