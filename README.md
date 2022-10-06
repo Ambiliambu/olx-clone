@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +67,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `yarn build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
+
+# OLX-CLONE
+
+it is an clone application of OLX which is created by using firebase.
+
+## Firebase
+It is a Backend as a Serevice(Baas). It provides developers with a variety of tools and services to help them develop quality app, grow their user base, and earn profit. It is built on Google’s infrastructure.
+   Here we  use firebase to store data of users and
+   products.Then fetching the data from farebase using methods.
+
+## Features
+
+* It is an OLX app clone.
+* Fetch user data stored in the firebse Authetication   using methods.
+* Fetch the product data stored in the firestre Database
+* Sell products by adding it in the recommadated item.
+* view the product and details of product.
+
+
+
+
+
+
+
